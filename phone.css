@@ -1,0 +1,30 @@
+#navbar {
+    flex-direction: column;
+}
+
+#navbar ul li a {
+    color: white;
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
+#Home {
+    height: 200px;
+
+}
+
+#Home p {
+    font-size: 13px;
+}
+
+#Home h1 {
+    font-size: 30px;
+}
+
+#Services .item {
+    flex-direction: column;
+}
+
+.clients {
+    flex-wrap: wrap;
+}
