@@ -1,1 +1,1 @@
-# Responsive food delivery website with the use oh HTML, Css and JavaScrpit.
+# Responsive food delivery website with the use of HTML, Css and JavaScrpit.
